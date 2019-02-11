@@ -1,4 +1,5 @@
-./bin
 .idea
 .vscode
-./TP01.iml
+TP01.iml
+out/
+.DS_Store
